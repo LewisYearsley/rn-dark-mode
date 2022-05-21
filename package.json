@@ -1,6 +1,6 @@
 {
   "name": "rn-dark-mode",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Easily work with dark mode in react-native",
   "main": "dist/index.js",
   "repository": {

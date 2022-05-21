@@ -6,7 +6,7 @@ A tiny and simple helper set to make it easy to switch your styles in react nati
 
 Maintains typesafety and code completion on par with the normal `StyleSheet.create`.
 
-Creating a dark mode stylesheet simply generates two static react native stylesheets and switches between the two with the complimenarty hook.
+Creating a dark mode stylesheet simply generates two static react native stylesheets and switches between the two with the complimentary hook.
 
 ## Useage
 
