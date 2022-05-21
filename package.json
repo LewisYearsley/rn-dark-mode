@@ -8,7 +8,8 @@
     "url": "https://github.com/LewisYearsley/rn-dark-mode"
   },
   "files": [
-    "dist/**/*"
+    "dist/**/*",
+    "README.md"
   ],
   "author": "Lewis Yearsley",
   "license": "MIT",
