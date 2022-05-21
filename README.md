@@ -104,11 +104,11 @@ const BACKGROUND_COLOR = new DarkModeValue(
 )
 
 function App(): React.ReactElement {
-  const text = useDarkModeValue(BACKGROUND_COLOR)
+  const backgroundColor = useDarkModeValue(BACKGROUND_COLOR)
 
   return (
-    <SafeAreaView>
-      <Text>{text}</Text>
+    <SafeAreaView style={{ backgroundColor }}>
+      <Text>Hello</Text>
     </SafeAreaView>
   )
 }
