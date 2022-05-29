@@ -1,8 +1,13 @@
+<p align="center">
+A tiny and simple helper set to make it easy to switch your styles in react native when switching between light and dark mode.
+</p>
+
 <h1 align="center">rn-dark-mode</h1>
+<br>
+
+<img src=".screen.gif" width="300"></img>
 
 ## What is it?
-
-A tiny and simple helper set to make it easy to switch your styles in react native when switching between light and dark mode.
 
 Maintains typesafety and code completion on par with the normal `StyleSheet.create`.
 
